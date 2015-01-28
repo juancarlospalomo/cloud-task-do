@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="tileTitleStyle" format="reference" />
+    <attr name="tileTitleTextAppearance" format="reference" />
+    <!--    <attr name="colorPrimary"/>-->
+</resources>

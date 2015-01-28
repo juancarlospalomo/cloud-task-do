@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CloudTaskDo</string>
+    <string name="title_activity_home">Task Blocks</string>
+    <string name="textTileTitleExpired">Expired</string>
+    <string name="textTileContentExpired">Task Number</string>
+    <string name="textTileTitleToday">Today</string>
+    <string name="textTileContentToday">Task Number</string>
+    <string name="textTileTitleFuture">Future</string>
+    <string name="textTileContentFuture">Task Number</string>
+    <string name="textTileTitleAny">Any Date</string>
+    <string name="textTileContentAny">Task Number</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

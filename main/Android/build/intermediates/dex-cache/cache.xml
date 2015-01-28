@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\pre-dexed\debug\classes-df6b16f43d9db51acac97bbeeb853aeaa9473700.jar" />
+    </item>
+    <item
+        jar="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\pre-dexed\debug\classes-0aef804d2934624c8a8ac35ab967e02bf62a0c33.jar" />
+    </item>
+    <item
+        jar="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\pre-dexed\debug\classes-2011db077bc57f711c1287e4ee495a3907cc1f54.jar" />
+    </item>
+    <item
+        jar="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\pre-dexed\debug\classes-5e88f1c5acdd5857e6dbae230b9092707bbbe610.jar" />
+    </item>
+    <item
+        jar="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-1e4b06a1993d639985bb29f123aef10bf7809511.jar" />
+    </item>
+    <item
+        jar="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\pre-dexed\debug\classes-62a6df87bf9f125f88d29b85f448f9b3b51ff0d7.jar" />
+    </item>
+    <item
+        jar="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-790f5f176a71e1475e529e4836fcae0d126cae1f.jar" />
+    </item>
+    <item
+        jar="D:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-69b5ce9d19c43e11bc900b52e9c94f98553acfe7.jar" />
+    </item>
+    <item
+        jar="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\pre-dexed\debug\classes-627d2347e959dbac913a372501721d99560dd10c.jar" />
+    </item>
+
+</items>
