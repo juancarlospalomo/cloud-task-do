@@ -29,28 +29,6 @@
   <component name="ChangeListManager">
     <list id="a2e8accb-8901-4794-a80e-b7ed376485df" name="Default" comment="Content Provider" />
     <list default="true" id="b04be6ed-d02a-415f-a16a-347c91e63157" name="Failed commit: Default" comment="Added Google+ Sign-in button">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CloudTaskDo/tests/src/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/PlusBaseActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/SignInActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/res/layout/activity_sign_in.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/res/values/strings_activity_sign_in.xml" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\.idea\libraries\appcompat_v7_21_0_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\.idea\libraries\cardview_v7_21_0_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\.idea\libraries\play_services_6_5_87.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\.idea\libraries\recyclerview_v7_21_0_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\.idea\libraries\support_annotations_21_0_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\.idea\libraries\support_v13_21_0_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\.idea\libraries\support_v4_21_0_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\generated\source\buildConfig\test\debug\com\productivity\cloudtaskdo\test\BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\src\main\res\values-es\strings.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/model_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/model_data.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CloudTaskDo/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CloudTaskDo/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/CloudTaskDo/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CloudTaskDo/build/generated/source/r/debug/com/google/android/gms/R.java" afterPath="$PROJECT_DIR$/CloudTaskDo/build/generated/source/r/debug/com/google/android/gms/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CloudTaskDo/build/generated/source/r/debug/com/productivity/cloudtaskdo/R.java" afterPath="$PROJECT_DIR$/CloudTaskDo/build/generated/source/r/debug/com/productivity/cloudtaskdo/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CloudTaskDo/build.gradle" afterPath="$PROJECT_DIR$/CloudTaskDo/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CloudTaskDo/proguard-project.txt" afterPath="$PROJECT_DIR$/CloudTaskDo/proguard-project.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TaskDo.iws" />
@@ -92,7 +70,7 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CloudTaskDo/tests/src/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5497512" vertical-offset="0" max-vertical-offset="402">
+            <state vertical-scroll-proportion="0.562341" vertical-offset="0" max-vertical-offset="393">
               <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
               <folding />
             </state>
@@ -1965,7 +1943,11 @@
       <created>1421100724244</created>
       <updated>1421100724244</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added Google+ Sign-in button">
+      <created>1422529180899</created>
+      <updated>1422529180899</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -1990,10 +1972,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32854864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20196672" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2003,9 +1985,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3141946" sideWeight="0.25642964" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24281392" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3141946" sideWeight="0.25642964" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32854864" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23146747" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3141946" sideWeight="0.7435703" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3141946" sideWeight="0.7435703" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28708133" sideWeight="0.73373675" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290469" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2427,7 +2409,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CloudTaskDo/tests/src/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5497512" vertical-offset="0" max-vertical-offset="402">
+        <state vertical-scroll-proportion="0.562341" vertical-offset="0" max-vertical-offset="393">
           <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
           <folding />
         </state>
