@@ -28,510 +28,30 @@
   </component>
   <component name="ChangeListManager">
     <list id="a2e8accb-8901-4794-a80e-b7ed376485df" name="Default" comment="Content Provider" />
-    <list default="true" id="b04be6ed-d02a-415f-a16a-347c91e63157" name="Failed commit: Default" comment="Content Provider">
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\cloudTaskDo\build\intermediates\dex\debug\classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\cloudTaskDo\build\intermediates\dex\test\debug\classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\cloudTaskDo\build\intermediates\pre-dexed\debug\classes-4d73a3a0c79ca5841cac9949e5b6d19689ca089c.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\cloudTaskDo\build\intermediates\pre-dexed\debug\classes-7ac3f7fbf1ce6daa787bea63239e9725c70b02ec.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\cloudTaskDo\build\intermediates\pre-dexed\debug\classes-88a69228df7b01f369aafaaaaae3532542983f3a.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\cloudTaskDo\build\intermediates\pre-dexed\debug\classes-d5d7cb29bef5ff835548774943a840c740d2e1a2.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\cloudTaskDo\build\intermediates\pre-dexed\debug\classes-d8e2bf2d7eece825b0554f054f66c5ec510ea5e6.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\cloudTaskDo\build\intermediates\pre-dexed\debug\classes-de3628347eab3465cbf1eac05fb86d36a72d6018.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\cloudTaskDo\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-884d8a1caac08891b1b87a84d8d51de17cac4640.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\cloudTaskDo\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-b24a4c62b5442225b9f4fe463dcbd2df1d5dd434.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\cloudTaskDo\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-69b5ce9d19c43e11bc900b52e9c94f98553acfe7.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\incremental\aidl\test\debug\dependency.store" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\incremental\mergeAssets\test\debug\merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\incremental\mergeResources\test\debug\merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\anim\group_fade_in.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\anim\group_fade_out.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\color\abs__primary_text_disable_only_holo_dark.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\color\abs__primary_text_disable_only_holo_light.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\color\abs__primary_text_holo_dark.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\color\abs__primary_text_holo_light.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ab_bottom_solid_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ab_bottom_solid_inverse_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ab_bottom_solid_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ab_bottom_transparent_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ab_bottom_transparent_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ab_share_pack_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ab_share_pack_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ab_solid_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ab_solid_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ab_solid_shadow_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ab_stacked_solid_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ab_stacked_solid_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ab_stacked_transparent_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ab_stacked_transparent_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ab_transparent_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ab_transparent_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__btn_cab_done_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__btn_cab_done_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__btn_cab_done_focused_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__btn_cab_done_focused_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__btn_cab_done_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__btn_cab_done_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__cab_background_bottom_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__cab_background_bottom_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__cab_background_top_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__cab_background_top_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ic_ab_back_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ic_ab_back_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ic_cab_done_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ic_cab_done_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ic_clear_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ic_clear_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ic_clear_search_api_disabled_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ic_clear_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ic_commit_search_api_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ic_commit_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ic_go.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ic_go_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ic_menu_moreoverflow_normal_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ic_menu_moreoverflow_normal_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ic_menu_share_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ic_menu_share_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ic_search.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ic_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ic_voice_search.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__ic_voice_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__list_activated_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__list_divider_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__list_divider_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__list_focused_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__list_longpressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__list_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__list_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__list_selector_disabled_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__list_selector_disabled_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__menu_dropdown_panel_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__menu_dropdown_panel_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__progress_bg_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__progress_bg_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__progress_primary_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__progress_primary_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__progress_secondary_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__progress_secondary_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__spinner_48_inner_holo.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__spinner_48_outer_holo.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__spinner_ab_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__spinner_ab_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__spinner_ab_disabled_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__spinner_ab_disabled_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__spinner_ab_focused_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__spinner_ab_focused_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__spinner_ab_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__spinner_ab_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__tab_selected_focused_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__tab_selected_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__tab_selected_pressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__tab_unselected_pressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__textfield_search_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__textfield_search_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__textfield_search_right_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__textfield_search_right_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__textfield_search_right_selected_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__textfield_search_right_selected_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__textfield_search_selected_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__textfield_search_selected_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\abs__toast_frame.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\ic_action_collapse.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\ic_action_expand.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\ic_check_off.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\ic_check_on.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-hdpi-v4\ic_navigation_accept.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ab_bottom_solid_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ab_bottom_solid_inverse_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ab_bottom_solid_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ab_bottom_transparent_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ab_bottom_transparent_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ab_share_pack_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ab_share_pack_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ab_solid_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ab_solid_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ab_solid_shadow_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ab_stacked_solid_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ab_stacked_solid_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ab_stacked_transparent_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ab_stacked_transparent_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ab_transparent_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ab_transparent_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__btn_cab_done_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__btn_cab_done_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__btn_cab_done_focused_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__btn_cab_done_focused_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__btn_cab_done_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__btn_cab_done_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__cab_background_bottom_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__cab_background_bottom_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__cab_background_top_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__cab_background_top_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ic_ab_back_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ic_ab_back_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ic_cab_done_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ic_cab_done_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ic_clear_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ic_clear_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ic_clear_search_api_disabled_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ic_clear_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ic_commit_search_api_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ic_commit_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ic_go.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ic_go_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ic_menu_moreoverflow_normal_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ic_menu_moreoverflow_normal_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ic_menu_share_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ic_menu_share_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ic_search.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ic_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ic_voice_search.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__ic_voice_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__list_activated_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__list_divider_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__list_divider_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__list_focused_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__list_longpressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__list_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__list_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__list_selector_disabled_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__list_selector_disabled_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__menu_dropdown_panel_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__menu_dropdown_panel_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__progress_bg_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__progress_bg_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__progress_primary_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__progress_primary_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__progress_secondary_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__progress_secondary_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__spinner_48_inner_holo.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__spinner_48_outer_holo.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__spinner_ab_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__spinner_ab_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__spinner_ab_disabled_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__spinner_ab_disabled_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__spinner_ab_focused_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__spinner_ab_focused_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__spinner_ab_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__spinner_ab_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__tab_selected_focused_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__tab_selected_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__tab_selected_pressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__tab_unselected_pressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__textfield_search_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__textfield_search_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__textfield_search_right_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__textfield_search_right_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__textfield_search_right_selected_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__textfield_search_right_selected_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__textfield_search_selected_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__textfield_search_selected_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\abs__toast_frame.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\ic_action_collapse.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\ic_action_expand.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\ic_check_off.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\ic_check_on.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-mdpi-v4\ic_navigation_accept.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-v11\abs__progress_medium_holo.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ab_bottom_solid_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ab_bottom_solid_inverse_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ab_bottom_solid_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ab_bottom_transparent_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ab_bottom_transparent_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ab_share_pack_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ab_share_pack_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ab_solid_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ab_solid_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ab_solid_shadow_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ab_stacked_solid_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ab_stacked_solid_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ab_stacked_transparent_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ab_stacked_transparent_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ab_transparent_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ab_transparent_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__btn_cab_done_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__btn_cab_done_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__btn_cab_done_focused_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__btn_cab_done_focused_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__btn_cab_done_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__btn_cab_done_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__cab_background_bottom_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__cab_background_bottom_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__cab_background_top_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__cab_background_top_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ic_ab_back_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ic_ab_back_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ic_cab_done_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ic_cab_done_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ic_clear_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ic_clear_search_api_disabled_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ic_clear_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ic_commit_search_api_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ic_commit_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ic_go.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ic_go_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ic_menu_moreoverflow_normal_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ic_menu_moreoverflow_normal_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ic_menu_share_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ic_menu_share_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ic_search.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ic_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ic_voice_search.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__ic_voice_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__list_activated_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__list_divider_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__list_divider_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__list_focused_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__list_longpressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__list_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__list_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__list_selector_disabled_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__list_selector_disabled_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__menu_dropdown_panel_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__menu_dropdown_panel_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__progress_bg_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__progress_bg_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__progress_primary_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__progress_primary_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__progress_secondary_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__progress_secondary_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__spinner_48_inner_holo.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__spinner_48_outer_holo.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__spinner_ab_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__spinner_ab_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__spinner_ab_disabled_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__spinner_ab_disabled_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__spinner_ab_focused_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__spinner_ab_focused_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__spinner_ab_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__spinner_ab_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__tab_selected_focused_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__tab_selected_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__tab_selected_pressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__tab_unselected_pressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__textfield_search_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__textfield_search_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__textfield_search_right_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__textfield_search_right_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__textfield_search_right_selected_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__textfield_search_right_selected_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__textfield_search_selected_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__textfield_search_selected_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\abs__toast_frame.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\ic_action_collapse.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\ic_action_expand.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\ic_check_off.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\ic_check_on.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xhdpi-v4\ic_navigation_accept.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xxhdpi-v4\ic_action_collapse.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xxhdpi-v4\ic_action_expand.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xxhdpi-v4\ic_check_off.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xxhdpi-v4\ic_check_on.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable-xxhdpi-v4\ic_navigation_accept.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__activated_background_holo_dark.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__activated_background_holo_light.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__btn_cab_done_holo_dark.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__btn_cab_done_holo_light.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__ic_clear.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__ic_clear_holo_light.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__ic_menu_moreoverflow_holo_dark.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__ic_menu_moreoverflow_holo_light.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__item_background_holo_dark.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__item_background_holo_light.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__list_selector_background_transition_holo_dark.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__list_selector_background_transition_holo_light.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__list_selector_holo_dark.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__list_selector_holo_light.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__progress_horizontal_holo_dark.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__progress_horizontal_holo_light.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__progress_medium_holo.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__search_dropdown_dark.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__search_dropdown_light.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__spinner_ab_holo_dark.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__spinner_ab_holo_light.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__tab_indicator_ab_holo.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__textfield_searchview_holo_dark.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__textfield_searchview_holo_light.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__textfield_searchview_right_holo_dark.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\abs__textfield_searchview_right_holo_light.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\blue_bg.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\button_blue.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\button_green.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\button_grey.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\button_red.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\green_bg.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\group_indicator.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\item_selector.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\list_selector.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\drawable\red_bg.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout-large-v4\abs__action_mode_close_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout-v14\sherlock_spinner_dropdown_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout-v14\sherlock_spinner_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout-xlarge-v4\abs__screen_action_bar.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout-xlarge-v4\abs__screen_action_bar_overlay.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\abs__action_bar_home.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\abs__action_bar_tab.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\abs__action_bar_tab_bar_view.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\abs__action_bar_title_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\abs__action_menu_item_layout.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\abs__action_menu_layout.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\abs__action_mode_bar.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\abs__action_mode_close_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\abs__activity_chooser_view.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\abs__activity_chooser_view_list_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\abs__list_menu_item_checkbox.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\abs__list_menu_item_icon.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\abs__list_menu_item_radio.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\abs__popup_menu_item_layout.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\abs__screen_action_bar.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\abs__screen_action_bar_overlay.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\abs__screen_simple.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\abs__screen_simple_overlay_action_mode.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\abs__search_dropdown_item_icons_2line.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\abs__search_view.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\abs__simple_dropdown_hint.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\activity_date.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\activity_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\activity_task_ended.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\activity_task_pending.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\fragment_task_pending.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\fragment_task_pending_markers.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\fragment_task_pending_markers_port.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\fragment_task_pending_twopanes.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\fragment_task_pending_twopanes_port.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\help_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\listrow_group.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\notification_row.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\sherlock_spinner_dropdown_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\sherlock_spinner_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\task_card.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\task_cards.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\layout\task_rowlayout.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\menu\task_context_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\values-large-hdpi-1024x600-v4\values.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\values-large-land-hdpi-1024x600-v4\values.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\values-large-land-mdpi-1024x600-v4\values.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\values-large-mdpi-1024x600-v4\values.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\values-sw600dp-land-v13\values.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\taskDo\build\intermediates\res\debug\values-sw600dp-port-v13\values.xml" afterPath="" />
+    <list default="true" id="b04be6ed-d02a-415f-a16a-347c91e63157" name="Failed commit: Default" comment="Added Google+ Sign-in button">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CloudTaskDo/tests/src/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/PlusBaseActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/SignInActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/res/layout/activity_sign_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/res/values/strings_activity_sign_in.xml" />
+      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\.idea\libraries\appcompat_v7_21_0_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\.idea\libraries\cardview_v7_21_0_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\.idea\libraries\play_services_6_5_87.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\.idea\libraries\recyclerview_v7_21_0_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\.idea\libraries\support_annotations_21_0_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\.idea\libraries\support_v13_21_0_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\.idea\libraries\support_v4_21_0_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\generated\source\buildConfig\test\debug\com\productivity\cloudtaskdo\test\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\src\main\res\values-es\strings.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/model_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/model_data.bin" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\AndroidManifest.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\src\main\AndroidManifest.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\generated\source\buildConfig\debug\com\productivity\cloudtaskdo\BuildConfig.java" afterPath="$PROJECT_DIR$/CloudTaskDo/build/generated/source/buildConfig/debug/com/productivity/cloudtaskdo/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\src\main\java\com\productivity\cloudtaskdo\datacontainers\GridBlockItem.java" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/datacontainers/GridBlockItem.java" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\src\main\java\com\productivity\cloudtaskdo\HomeActivity.java" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/HomeActivity.java" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\generated\source\r\debug\com\productivity\cloudtaskdo\R.java" afterPath="$PROJECT_DIR$/CloudTaskDo/build/generated/source/r/debug/com/productivity/cloudtaskdo/R.java" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\src\main\java\com\productivity\cloudtaskdo\views\SquareFrameLayout.java" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/views/SquareFrameLayout.java" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\src\main\java\com\productivity\cloudtaskdo\data\TaskContract.java" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/data/TaskContract.java" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\src\main\java\com\productivity\cloudtaskdo\data\TaskDbHelper.java" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/data/TaskDbHelper.java" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\src\main\java\com\productivity\cloudtaskdo\data\TaskProvider.java" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/data/TaskProvider.java" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\src\main\java\com\productivity\cloudtaskdo\views\TileTitle.java" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/views/TileTitle.java" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\src\main\res\layout\activity_home.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/res/layout/activity_home.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values\admob_ads_attrs.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/admob_ads_attrs.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values\admob_iap_style.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/admob_iap_style.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\src\main\res\values\attrs.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/res/values/attrs.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build.gradle" afterPath="$PROJECT_DIR$/CloudTaskDo/build.gradle" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\drawable\common_signin_btn_icon_dark.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable/common_signin_btn_icon_dark.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\drawable\common_signin_btn_icon_light.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable/common_signin_btn_icon_light.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\color\common_signin_btn_text_dark.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/color/common_signin_btn_text_dark.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\drawable\common_signin_btn_text_dark.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable/common_signin_btn_text_dark.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\color\common_signin_btn_text_light.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/color/common_signin_btn_text_light.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\drawable\common_signin_btn_text_light.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable/common_signin_btn_text_light.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-af\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-af/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-am\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-am/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-ar\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-ar/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-bg\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-bg/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-bn-rBD\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-bn-rBD/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-ca\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-ca/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-cs\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-cs/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-da\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-da/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-de\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-de/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-el\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-el/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-en-rGB\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-en-rGB/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-en-rIN\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-en-rIN/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-es\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-es/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-es-rUS\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-es-rUS/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-et-rEE\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-et-rEE/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-eu-rES\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-eu-rES/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-fa\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-fa/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-fi\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-fi/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-fr\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-fr/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-fr-rCA\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-fr-rCA/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-gl-rES\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-gl-rES/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-hi\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-hi/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-hr\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-hr/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-hu\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-hu/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-hy-rAM\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-hy-rAM/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-in\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-in/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-is-rIS\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-is-rIS/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-it\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-it/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-iw\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-iw/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-ja\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-ja/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-ka-rGE\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-ka-rGE/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-kk-rKZ\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-kk-rKZ/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-km-rKH\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-km-rKH/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-kn-rIN\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-kn-rIN/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-ko\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-ko/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-ky-rKG\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-ky-rKG/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-lo-rLA\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-lo-rLA/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-lt\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-lt/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-lv\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-lv/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-mk-rMK\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-mk-rMK/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-ml-rIN\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-ml-rIN/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-mn-rMN\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-mn-rMN/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-mr-rIN\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-mr-rIN/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-ms-rMY\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-ms-rMY/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-my-rMM\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-my-rMM/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-nb\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-nb/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-ne-rNP\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-ne-rNP/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-nl\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-nl/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-pl\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-pl/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-pt\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-pt/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-pt-rBR\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-pt-rBR/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-pt-rPT\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-pt-rPT/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-ro\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-ro/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-ru\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-ru/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-si-rLK\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-si-rLK/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-sk\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-sk/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-sl\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-sl/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-sr\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-sr/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-sv\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-sv/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-sw\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-sw/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-ta-rIN\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-ta-rIN/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-te-rIN\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-te-rIN/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-th\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-th/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-tl\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-tl/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-tr\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-tr/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-uk\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-uk/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-ur-rPK\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-ur-rPK/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-uz-rUZ\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-uz-rUZ/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-vi\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-vi/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-zh-rCN\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-zh-rCN/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-zh-rHK\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-zh-rHK/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-zh-rTW\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-zh-rTW/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-zu\common_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-zu/common_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\src\main\res\values\dimens.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/res/values/dimens.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\tests\src\com\productivity\cloudtaskdo\tests\fullTestSuite.java" afterPath="$PROJECT_DIR$/CloudTaskDo/tests/src/com/productivity/cloudtaskdo/tests/fullTestSuite.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\src\main\res\layout\grid_item.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/res/layout/grid_item.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\lint.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/lint.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values\maps_attrs.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/maps_attrs.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\src\main\res\menu\menu_home.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/res/menu/menu_home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\tests\src\com\productivity\cloudtaskdo\tests\testDb.java" afterPath="$PROJECT_DIR$/CloudTaskDo/tests/src/com/productivity/cloudtaskdo/tests/testDb.java" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\tests\src\com\productivity\cloudtaskdo\tests\testProvider.java" afterPath="$PROJECT_DIR$/CloudTaskDo/tests/src/com/productivity/cloudtaskdo/tests/testProvider.java" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\src\main\res\values\themes.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/res/values/themes.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values\wallet_attrs.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/wallet_attrs.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values\wallet_colors.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/wallet_colors.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\color\wallet_primary_text_holo_light.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/color/wallet_primary_text_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\color\wallet_secondary_text_holo_dark.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/color/wallet_secondary_text_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values\wallet_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/wallet_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values-es\wallet_strings.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-es/wallet_strings.xml" />
-      <change type="MODIFICATION" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\res\values\wallet_styles.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/wallet_styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CloudTaskDo/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/CloudTaskDo/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CloudTaskDo/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/CloudTaskDo/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CloudTaskDo/build/generated/source/r/debug/com/google/android/gms/R.java" afterPath="$PROJECT_DIR$/CloudTaskDo/build/generated/source/r/debug/com/google/android/gms/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CloudTaskDo/build/generated/source/r/debug/com/productivity/cloudtaskdo/R.java" afterPath="$PROJECT_DIR$/CloudTaskDo/build/generated/source/r/debug/com/productivity/cloudtaskdo/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CloudTaskDo/build.gradle" afterPath="$PROJECT_DIR$/CloudTaskDo/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CloudTaskDo/proguard-project.txt" afterPath="$PROJECT_DIR$/CloudTaskDo/proguard-project.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\cloudTaskDo.iml" afterPath="$PROJECT_DIR$/CloudTaskDo/CloudTaskDo.iml" />
     </list>
     <ignored path="TaskDo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -559,51 +79,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TaskProvider.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/data/TaskProvider.java">
+      <file leaf-file-name="SignInActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/SignInActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2725" max-vertical-offset="3808">
-              <caret line="144" column="63" selection-start-line="144" selection-start-column="63" selection-end-line="144" selection-end-column="63" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="223" max-vertical-offset="1751">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TaskDbHelper.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/data/TaskDbHelper.java">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CloudTaskDo/tests/src/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7562189" vertical-offset="563" max-vertical-offset="1326">
-              <caret line="59" column="11" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GridBlockItem.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/datacontainers/GridBlockItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="867">
-              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testProvider.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CloudTaskDo/tests/src/com/productivity/cloudtaskdo/tests/testProvider.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1785" max-vertical-offset="1972">
-              <caret line="105" column="0" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TaskContract.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/data/TaskContract.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1666" max-vertical-offset="2295">
-              <caret line="98" column="56" selection-start-line="98" selection-start-column="26" selection-end-line="98" selection-end-column="56" />
+            <state vertical-scroll-proportion="0.5497512" vertical-offset="0" max-vertical-offset="402">
+              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -1587,7 +1077,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4264680908793" />
+        <entry key="$PROJECT_DIR$" value="4265220659098" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1770,10 +1260,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/taskDo/src/main/java/com/productivity/taskdo/cross/util.java" />
-        <option value="$PROJECT_DIR$/taskDo/src/main/java/com/productivity/taskdo/NotifiedTaskActivity.java" />
-        <option value="$PROJECT_DIR$/taskDo/src/main/res/values-v11/styles.xml" />
-        <option value="$PROJECT_DIR$/taskDo/src/main/res/values-v14/styles.xml" />
         <option value="$PROJECT_DIR$/taskDo/src/main/java/com/productivity/taskdo/DateActivity.java" />
         <option value="$PROJECT_DIR$/taskDo/src/main/java/com/productivity/taskdo/TaskEndedActivity.java" />
         <option value="$PROJECT_DIR$/taskDo/src/main/java/com/productivity/taskdo/TaskPendingActivity.java" />
@@ -1814,11 +1300,17 @@
         <option value="$PROJECT_DIR$/CloudTaskDo/tests/src/com/productivity/cloudtaskdo/tests/fullTestSuite.java" />
         <option value="$PROJECT_DIR$/CloudTaskDo/build.gradle" />
         <option value="$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/data/TaskDbHelper.java" />
-        <option value="$PROJECT_DIR$/CloudTaskDo/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/CloudTaskDo/tests/src/com/productivity/cloudtaskdo/tests/testDb.java" />
         <option value="$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/data/TaskContract.java" />
         <option value="$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/data/TaskProvider.java" />
         <option value="$PROJECT_DIR$/CloudTaskDo/tests/src/com/productivity/cloudtaskdo/tests/testProvider.java" />
+        <option value="$PROJECT_DIR$/CloudTaskDo/src/main/res/layout/activity_sign_in.xml" />
+        <option value="$PROJECT_DIR$/CloudTaskDo/src/main/res/values/strings_activity_sign_in.xml" />
+        <option value="$PROJECT_DIR$/CloudTaskDo/proguard-project.txt" />
+        <option value="$PROJECT_DIR$/CloudTaskDo/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/SignInActivity.java" />
+        <option value="$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/PlusBaseActivity.java" />
+        <option value="$PROJECT_DIR$/CloudTaskDo/tests/src/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -1876,6 +1368,128 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TaskDo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TaskDo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TaskDo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wrapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TaskDo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CloudTaskDo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TaskDo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CloudTaskDo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TaskDo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CloudTaskDo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TaskDo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CloudTaskDo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
@@ -1911,26 +1525,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TaskDo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TaskDo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1940,7 +1534,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Issue.Navigation" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -1948,7 +1542,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
     <property name="FullScreen" value="false" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteToolWindowManager.SHOW" value="true" />
-    <property name="android.project.structure.last.selected" value="taskDo" />
+    <property name="android.project.structure.last.selected" value="CloudTaskDo" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
@@ -1958,6 +1552,22 @@
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="Groovy.Shell.LastModule" value="cloudTaskDo" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="52" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="52" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="52" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="474" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="52" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="52" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="52" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="474" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -1971,6 +1581,7 @@
       <recent name="D:\Workspace\CloudTaskDo\main\Android\taskDo\src\main\res\drawable-hdpi" />
     </key>
     <key name="android.template.packageName">
+      <recent name="com.productivity.cloudtaskdo" />
       <recent name="com.productivity.cloudTaskDo" />
       <recent name="com.productivity.taskdo" />
     </key>
@@ -2379,19 +1990,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20196672" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.32854864" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39872408" sideWeight="0.84114975" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3141946" sideWeight="0.25642964" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3141946" sideWeight="0.25642964" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24281392" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3141946" sideWeight="0.25642964" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23146747" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3141946" sideWeight="0.7435703" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28708133" sideWeight="0.73373675" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290469" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2400,17 +2014,14 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3207262" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23146747" sideWeight="0.49769586" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39872408" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.36842105" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="22" y="287" width="1322" height="193" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Documentation" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20196672" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.32854864" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3141946" sideWeight="0.7435703" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2431,7 +2042,8 @@
     <MESSAGE value="Cleaned up" />
     <MESSAGE value="Custom Theme" />
     <MESSAGE value="Content Provider" />
-    <option name="LAST_COMMIT_MESSAGE" value="Content Provider" />
+    <MESSAGE value="Added Google+ Sign-in button" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Google+ Sign-in button" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -2441,48 +2053,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CloudTaskDo/proguard-project.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.15563506" vertical-offset="87" max-vertical-offset="646">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradlew">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7298748" vertical-offset="408" max-vertical-offset="2890">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/import-summary.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.7978534" vertical-offset="1158" max-vertical-offset="1717">
-          <caret line="9" column="53" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Android/SDK/sources/android-21/android/app/Fragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3324397" vertical-offset="4925" max-vertical-offset="36227">
-          <caret line="351" column="13" selection-start-line="351" selection-start-column="13" selection-end-line="351" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Android/SDK/sources/android-21/android/app/PendingIntent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33167082" vertical-offset="870" max-vertical-offset="16167">
-          <caret line="91" column="19" selection-start-line="91" selection-start-column="19" selection-end-line="91" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Android/SDK/extras/android/m2repository/com/android/support/support-v4/21.0.3/support-v4-21.0.3-sources.jar!/android/support/v4/view/ViewPager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.85141903" vertical-offset="102" max-vertical-offset="47838">
-          <caret line="88" column="13" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/res/menu/menu_home.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
@@ -2569,34 +2139,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
-          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/res/values-es/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21573605" vertical-offset="0" max-vertical-offset="394">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.16" vertical-offset="0" max-vertical-offset="374">
-          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/HomeActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1275">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/res/values/themes.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20286396" vertical-offset="0" max-vertical-offset="419">
@@ -2619,23 +2161,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/res/layout/grid_item.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6938776" vertical-offset="408" max-vertical-offset="850">
           <caret line="40" column="49" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/res/layout/activity_home.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/res/layout/activity_home.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5229592" vertical-offset="135" max-vertical-offset="544">
           <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://D:/Android/SDK/sources/android-21/android/provider/BaseColumns.java">
@@ -2690,13 +2232,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CloudTaskDo/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17557251" vertical-offset="33" max-vertical-offset="697">
-          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Android/SDK/sources/android-21/android/content/ContentValues.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33333334" vertical-offset="39" max-vertical-offset="7667">
@@ -2715,14 +2250,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="6020" max-vertical-offset="37162">
           <caret line="405" column="28" selection-start-line="405" selection-start-column="28" selection-end-line="405" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="765">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2751,7 +2278,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="313" max-vertical-offset="1513">
           <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2759,7 +2285,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1498" max-vertical-offset="2261">
           <caret line="98" column="56" selection-start-line="98" selection-start-column="26" selection-end-line="98" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2767,15 +2292,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="761" max-vertical-offset="1360">
           <caret line="105" column="0" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/data/TaskProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2725" max-vertical-offset="3808">
-          <caret line="144" column="63" selection-start-line="144" selection-start-column="63" selection-end-line="144" selection-end-column="63" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2783,7 +2299,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="138" max-vertical-offset="765">
           <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2796,8 +2311,124 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/data/TaskDbHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7562189" vertical-offset="563" max-vertical-offset="1326">
-          <caret line="59" column="11" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.54477614" vertical-offset="563" max-vertical-offset="1326">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.16" vertical-offset="0" max-vertical-offset="374">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/res/values/strings_activity_sign_in.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Android/SDK/sources/android-21/android/widget/TextView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="73853" max-vertical-offset="155414">
+          <caret line="4614" column="16" selection-start-line="4614" selection-start-column="16" selection-end-line="4614" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudTaskDo/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08457711" vertical-offset="0" max-vertical-offset="782">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="9" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudTaskDo/proguard-project.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74626863" vertical-offset="499" max-vertical-offset="901">
+          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.25123152" vertical-offset="425" max-vertical-offset="952">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#1146#1164#0" expanded="true" />
+            <element signature="e#1318#1357#0" expanded="true" />
+            <element signature="e#1447#1465#0" expanded="true" />
+            <element signature="e#1910#1942#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/res/layout/activity_sign_in.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4311224" vertical-offset="0" max-vertical-offset="1037">
+          <caret line="33" column="54" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/HomeActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1445">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/PlusBaseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43002546" vertical-offset="681" max-vertical-offset="4675">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5925#5926#0" expanded="true" />
+            <element signature="e#5971#5972#0" expanded="true" />
+            <element signature="e#7915#7916#0" expanded="true" />
+            <element signature="e#7954#7955#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/data/TaskProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2589" max-vertical-offset="3672">
+          <caret line="175" column="0" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudTaskDo/src/main/java/com/productivity/cloudtaskdo/SignInActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="223" max-vertical-offset="1751">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudTaskDo/tests/src/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5497512" vertical-offset="0" max-vertical-offset="402">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
           <folding />
         </state>
       </provider>
