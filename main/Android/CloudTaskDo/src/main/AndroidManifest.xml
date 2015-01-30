@@ -55,6 +55,9 @@
             </intent-filter>
         </receiver>
 
+        <!-- Boot service to carry out the needed operations -->
+        <service android:name=".service.BootService" />
+
     </application>
 
 </manifest>

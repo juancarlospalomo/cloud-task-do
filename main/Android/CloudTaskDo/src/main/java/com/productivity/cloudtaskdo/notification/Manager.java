@@ -71,7 +71,7 @@ public class Manager {
     /**
      * Class to set and cancel the alarms
      */
-    private final class Alarm {
+    public final class Alarm {
 
         private final static String NOTIFICATION_ID = "notification_id";
 
@@ -86,10 +86,10 @@ public class Manager {
             boolean result = false;
             Date date = Dates.getDate(dateTime);
             if (date != null) {
-                AlarmManager alarmManager = (AlarmManager) Manager.this.mContext.getSystemService(Context.ALARM_SERVICE);
-                Intent intent = new Intent(Manager.this.mContext, AlarmReceiver.class);
+                AlarmManager alarmManager = (AlarmManager) mContext.getSystemService(Context.ALARM_SERVICE);
+                Intent intent = new Intent(mContext, AlarmReceiver.class);
                 intent.putExtra(NOTIFICATION_ID, notificationId);
-                PendingIntent pendingIntent = PendingIntent.getBroadcast(Manager.this.mContext, 0, intent, PendingIntent.FLAG_UPDATE_CURRENT);
+                PendingIntent pendingIntent = PendingIntent.getBroadcast(mContext, 0, intent, PendingIntent.FLAG_UPDATE_CURRENT);
                 alarmManager.set(AlarmManager.RTC_WAKEUP, date.getTime(), pendingIntent);
                 result = true;
             }
@@ -102,10 +102,10 @@ public class Manager {
          * @param notificationId = notification identifier
          */
         public void remove(long notificationId) {
-            AlarmManager alarmManager = (AlarmManager) Manager.this.mContext.getSystemService(Context.ALARM_SERVICE);
-            Intent intent = new Intent(Manager.this.mContext, AlarmReceiver.class);
+            AlarmManager alarmManager = (AlarmManager) mContext.getSystemService(Context.ALARM_SERVICE);
+            Intent intent = new Intent(mContext, AlarmReceiver.class);
             intent.putExtra(NOTIFICATION_ID, notificationId);
-            PendingIntent pendingIntent = PendingIntent.getBroadcast(Manager.this.mContext,
+            PendingIntent pendingIntent = PendingIntent.getBroadcast(mContext,
                     0, intent, PendingIntent.FLAG_UPDATE_CURRENT);
             alarmManager.cancel(pendingIntent);
         }
