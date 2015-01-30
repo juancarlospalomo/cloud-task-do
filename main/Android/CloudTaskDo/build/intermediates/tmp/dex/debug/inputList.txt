@@ -1,0 +1,10 @@
+D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\classes\debug
+D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-790f5f176a71e1475e529e4836fcae0d126cae1f.jar
+D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-69b5ce9d19c43e11bc900b52e9c94f98553acfe7.jar
+D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\pre-dexed\debug\classes-2011db077bc57f711c1287e4ee495a3907cc1f54.jar
+D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\pre-dexed\debug\classes-62a6df87bf9f125f88d29b85f448f9b3b51ff0d7.jar
+D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-1e4b06a1993d639985bb29f123aef10bf7809511.jar
+D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\pre-dexed\debug\classes-df6b16f43d9db51acac97bbeeb853aeaa9473700.jar
+D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\pre-dexed\debug\classes-5e88f1c5acdd5857e6dbae230b9092707bbbe610.jar
+D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\pre-dexed\debug\classes-0aef804d2934624c8a8ac35ab967e02bf62a0c33.jar
+D:\Workspace\CloudTaskDo\main\Android\CloudTaskDo\build\intermediates\pre-dexed\debug\classes-627d2347e959dbac913a372501721d99560dd10c.jar
