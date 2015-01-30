@@ -12,6 +12,7 @@ import com.productivity.cloudtaskdo.cross.Dates;
 import com.productivity.cloudtaskdo.data.TaskContract;
 import com.productivity.cloudtaskdo.receiver.AlarmReceiver;
 
+import java.util.Calendar;
 import java.util.Date;
 
 /**
@@ -54,7 +55,7 @@ public class Manager {
      * @param notificationId
      * @return true if the notification could be removed
      */
-    public boolean unSet(int notificationId) {
+    public boolean unSet(int notificationId, String dateTime) {
         boolean result = false;
         int rowsDeleted = mContext.getContentResolver().delete(TaskContract.NotificationEntry.CONTENT_URI,
                 TaskContract.NotificationEntry._ID + "=?",
@@ -62,7 +63,7 @@ public class Manager {
 
         if (rowsDeleted > 0) {
             Alarm alarm = new Alarm();
-            alarm.remove(notificationId);
+            alarm.remove(notificationId, dateTime);
             result = true;
         }
         return result;
@@ -74,6 +75,25 @@ public class Manager {
     public final class Alarm {
 
         private final static String NOTIFICATION_ID = "notification_id";
+
+        /**
+         * Generate an unique request code depending of the notification
+         *
+         * @param notificationId = notification identifier
+         * @param date           = date & time for the notification
+         * @return the unique request code
+         */
+        private int getRequestCode(int notificationId, Date date) {
+            Calendar calendar = Calendar.getInstance();
+            calendar.setTime(date);
+            int year = calendar.get(Calendar.YEAR);
+            int month = calendar.get(Calendar.MONTH);
+            int day = calendar.get(Calendar.DAY_OF_MONTH);
+            int hour = calendar.get(Calendar.HOUR_OF_DAY);
+            int minute = calendar.get(Calendar.MINUTE);
+            String stringDate = String.format("%d%d%d%d%d", year, month, day, hour, minute);
+            return Integer.parseInt(String.valueOf(notificationId) + stringDate);
+        }
 
         /**
          * Schedule an alarm to be broadcasted with PendingIntent to AlarmReceiver
@@ -89,7 +109,9 @@ public class Manager {
                 AlarmManager alarmManager = (AlarmManager) mContext.getSystemService(Context.ALARM_SERVICE);
                 Intent intent = new Intent(mContext, AlarmReceiver.class);
                 intent.putExtra(NOTIFICATION_ID, notificationId);
-                PendingIntent pendingIntent = PendingIntent.getBroadcast(mContext, 0, intent, PendingIntent.FLAG_UPDATE_CURRENT);
+                PendingIntent pendingIntent = PendingIntent.getBroadcast(mContext,
+                        getRequestCode((int) notificationId, date),
+                        intent, PendingIntent.FLAG_UPDATE_CURRENT);
                 alarmManager.set(AlarmManager.RTC_WAKEUP, date.getTime(), pendingIntent);
                 result = true;
             }
@@ -100,14 +122,19 @@ public class Manager {
          * Cancel an alarm for a notification
          *
          * @param notificationId = notification identifier
+         * @param dateTime = date & time of the existing notification
          */
-        public void remove(long notificationId) {
-            AlarmManager alarmManager = (AlarmManager) mContext.getSystemService(Context.ALARM_SERVICE);
-            Intent intent = new Intent(mContext, AlarmReceiver.class);
-            intent.putExtra(NOTIFICATION_ID, notificationId);
-            PendingIntent pendingIntent = PendingIntent.getBroadcast(mContext,
-                    0, intent, PendingIntent.FLAG_UPDATE_CURRENT);
-            alarmManager.cancel(pendingIntent);
+        public void remove(long notificationId, String dateTime) {
+            Date date = Dates.getDate(dateTime);
+            if (date != null) {
+                AlarmManager alarmManager = (AlarmManager) mContext.getSystemService(Context.ALARM_SERVICE);
+                Intent intent = new Intent(mContext, AlarmReceiver.class);
+                intent.putExtra(NOTIFICATION_ID, notificationId);
+                PendingIntent pendingIntent = PendingIntent.getBroadcast(mContext,
+                        getRequestCode((int) notificationId, date),
+                        intent, PendingIntent.FLAG_UPDATE_CURRENT);
+                alarmManager.cancel(pendingIntent);
+            }
         }
 
     }
