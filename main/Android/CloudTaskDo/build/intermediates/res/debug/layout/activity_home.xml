@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/taskToolBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        android:background="?attr/colorPrimary">
+
+    </android.support.v7.widget.Toolbar>
+
+    <GridView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/gridTaskPeriods"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:columnWidth="120dp"
+        android:drawSelectorOnTop="true"
+        android:horizontalSpacing="@dimen/grid_spacing"
+        android:numColumns="2"
+        android:padding="@dimen/grid_spacing"
+        android:verticalSpacing="@dimen/grid_spacing" />
+
+</LinearLayout><!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/src/main/res/layout/activity_home.xml -->
