@@ -19,7 +19,8 @@
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
     <!-- To auto-complete the email text field in the login form with the user's emails -->
     <uses-permission android:name="android.permission.USE_CREDENTIALS" />
-    <!-- To retrieve OAuth 2.0 tokens or invalidate tokens to disconnect a user. -->
+    <!-- To receive the ACTION_BOOT_COMPLETED -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
 
     <application
         android:icon="@drawable/ic_launcher"
@@ -47,6 +48,13 @@
             android:name=".SignInActivity"
             android:label="@string/title_activity_sign_in"
             android:windowSoftInputMode="adjustResize|stateHidden"></activity>
+
+        <receiver android:name=".receiver.BootReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"></action>
+            </intent-filter>
+        </receiver>
+
     </application>
 
 </manifest>
