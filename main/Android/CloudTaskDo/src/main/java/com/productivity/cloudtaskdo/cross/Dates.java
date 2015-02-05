@@ -25,4 +25,11 @@ public final class Dates {
         return date;
     }
 
+    public static String getCurrentDateTime() {
+        SimpleDateFormat dateFormat = new SimpleDateFormat(
+                DATE_DATABASE_FORMAT, Locale.getDefault());
+        Date date = new Date();
+        return dateFormat.format(date);
+    }
+
 }

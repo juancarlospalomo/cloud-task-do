@@ -23,6 +23,23 @@ public class TaskContract {
     public static final String PATH_NOTIFICATION = "notification";
     public static final String PATH_HISTORY = "history";
 
+    public enum TypeTask {
+        Expired(1),
+        Today(2),
+        Future(3),
+        AnyTime(4);
+
+        private int mValue = 0;
+        private TypeTask(int value) {
+            mValue = value;
+        }
+
+        public int getValue() {
+            return mValue;
+        }
+    }
+
+
     public interface BaseEntry extends BaseColumns {
 
         //Server id
