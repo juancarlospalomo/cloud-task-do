@@ -15,6 +15,11 @@
     <attr name="listPreferredItemPaddingBottom" format="dimension" />
     <!-- The preferred TextAppearance for the secondary text of list items. -->
     <attr name="textAppearanceListItemSecondary" format="reference" />
+    <!-- Height for the avatar in list row -->
+    <attr name="listPreferredListItemAvatarHeight" format="dimension" />
+    <!-- Width for the avatar in list row -->
+    <attr name="listPreferredListItemAvatarWidth" format="dimension" />
+    <!-- +++++++++++++++++++++++++++++++++++++++++++++ -->
     <!-- The most prominent text color. -->
     <attr name="textColorPrimary" format="reference|color" />
     <!-- Default font family. -->
@@ -25,4 +30,10 @@
     <attr name="textColorHighlight" format="reference|color" />
     <!-- Color of link text (URLs). -->
     <attr name="textColorLink" format="reference|color"/>
+    <!-- +++++++++++++++++++++++++++++++++++++++++++++ -->
+    <!-- UI assets metrics -->
+    <!-- Height area -->
+    <attr name="touchableAssetLayoutHeight" format="dimension" />
+    <!-- Width area -->
+    <attr name="touchableAssetLayoutWidth" format="dimension" />
 </resources>

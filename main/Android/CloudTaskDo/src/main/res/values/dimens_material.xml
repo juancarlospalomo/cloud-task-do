@@ -11,4 +11,9 @@
     <dimen name="list_primary_action_text_avatar_text">72dp</dimen>
     <dimen name="list_primary_action_text_padding_top">20dp</dimen>
     <dimen name="list_primary_action_text_padding_bottom">20dp</dimen>
+    <!-- Metrics for avatar in list item -->
+    <dimen name="list_primary_action_avatar_height">56dp</dimen>
+    <dimen name="list_primary_action_avatar_width">56dp</dimen>
+    <!-- Touchable grid metrics -->
+    <dimen name="touchable_grid_metric">48dp</dimen>
 </resources>

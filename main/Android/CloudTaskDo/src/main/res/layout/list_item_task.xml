@@ -10,12 +10,13 @@
 
     <ImageView
         android:id="@+id/image_primary_action_avatar"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_width="?attr/listPreferredListItemAvatarWidth"
+        android:layout_height="?attr/listPreferredListItemAvatarHeight" />
 
     <LinearLayout
         android:id="@+id/layout_primary_action_content"
-        android:layout_width="match_parent"
+        android:layout_width="0dp"
+        android:layout_weight="1"
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:paddingTop="?attr/listPreferredItemPaddingTop"
@@ -24,20 +25,18 @@
         <TextView
             android:id="@+id/textview_primary_text"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceListItem" />
 
         <TextView
             android:id="@+id/textview_secondary_text"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
             android:textAppearance="?attr/textAppearanceListItemSecondary"/>
-
     </LinearLayout>
 
     <ImageView
         android:id="@+id/image_secondary_action_icon"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
-
+        android:layout_width="?attr/touchableAssetLayoutWidth"
+        android:layout_height="?attr/touchableAssetLayoutHeight" />
 </LinearLayout>

@@ -14,6 +14,8 @@
     <eat-comment/>
     <attr format="dimension" name="listPreferredItemPaddingBottom"/>
     <attr format="dimension" name="listPreferredItemPaddingTop"/>
+    <attr format="dimension" name="listPreferredListItemAvatarHeight"/>
+    <attr format="dimension" name="listPreferredListItemAvatarWidth"/>
     <attr format="reference" name="textAppearanceListItemSecondary"/>
     <attr format="reference|color" name="textColorHighlight"/>
     <attr format="reference|color" name="textColorHint"/>
@@ -24,6 +26,12 @@
     <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <attr format="string" name="title"/>
+    <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/src/main/res/values/attrs.xml -->
+    <eat-comment/>
+    <attr format="dimension" name="touchableAssetLayoutHeight"/>
+    <attr format="dimension" name="touchableAssetLayoutWidth"/>
+    <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <eat-comment/>
     <bool name="abc_action_bar_embed_tabs">true</bool>
     <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
     <bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
@@ -244,11 +252,14 @@
     <dimen name="grid_spacing">4dp</dimen>
     <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/src/main/res/values/dimens_material.xml -->
     <eat-comment/>
+    <dimen name="list_primary_action_avatar_height">56dp</dimen>
+    <dimen name="list_primary_action_avatar_width">56dp</dimen>
     <dimen name="list_primary_action_text_avatar_text">72dp</dimen>
     <dimen name="list_primary_action_text_padding_bottom">20dp</dimen>
     <dimen name="list_primary_action_text_padding_top">20dp</dimen>
     <dimen name="text_size_body_1_material">14sp</dimen>
     <dimen name="text_size_subhead_material">16sp</dimen>
+    <dimen name="touchable_grid_metric">48dp</dimen>
     <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <item name="action_bar_activity_content" type="id"/>
@@ -370,11 +381,16 @@
         <item name="textAppearanceListItemSecondary">@style/AppProductivityTheme.TextAppearance.Material.Body1</item>
         <item name="listPreferredItemPaddingTop">@dimen/list_primary_action_text_padding_top</item>
         <item name="listPreferredItemPaddingBottom">@dimen/list_primary_action_text_padding_bottom</item>
+        <item name="listPreferredListItemAvatarHeight">@dimen/list_primary_action_avatar_height</item>
+        <item name="listPreferredListItemAvatarWidth">@dimen/list_primary_action_avatar_width</item>
         <!-- Text styles -->
         <item name="textColorPrimary">@color/primary_text_material_dark</item>
         <item name="textColorHint">@color/hint_foreground_material_dark</item>
         <item name="textColorHighlight">@color/highlighted_text_material_dark</item>
         <item name="textColorLink">@color/link_text_material_dark</item>
+        <!-- Touchable Metrics -->
+        <item name="touchableAssetLayoutHeight">@dimen/touchable_grid_metric</item>
+        <item name="touchableAssetLayoutWidth">@dimen/touchable_grid_metric</item>
     </style>
     <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/src/main/res/values/styles.xml -->
     <eat-comment/>
