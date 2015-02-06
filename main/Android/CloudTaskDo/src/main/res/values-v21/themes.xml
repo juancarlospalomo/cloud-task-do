@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="ProductivityTheme" parent="android:Theme.Material.Light">
+    <style name="AppProductivityTheme" parent="android:Theme.Material.Light">
         <item name="tileTitleStyle">@style/Widget.TileTitle</item>
         <item name="tileTitleTextAppearance">@style/Widget.TileTitle.tileTitleTextAppearance</item>
 
         <!-- List attributes -->
-        <item name="textAppearanceListItemSecondary">@style/TextAppearanceMaterialBody1</item>
+        <item name="textAppearanceListItem">@style/AppProductivityTheme.TextAppearance.Material.Subhead</item>
+        <item name="textAppearanceListItemSecondary">@style/AppProductivityTheme.TextAppearance.Material.Body1</item>
+        <item name="listPreferredItemPaddingTop">@dimen/list_primary_action_text_padding_top</item>
+        <item name="listPreferredItemPaddingBottom">@dimen/list_primary_action_text_padding_bottom</item>
+        <!-- Text styles are already defined for API 21 onwards-->
 
     </style>
 

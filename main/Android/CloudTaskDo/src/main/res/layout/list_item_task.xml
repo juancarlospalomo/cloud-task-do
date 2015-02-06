@@ -3,24 +3,32 @@
     android:orientation="horizontal"
     android:layout_width="match_parent"
     android:layout_height="?android:attr/listPreferredItemHeightLarge"
+    android:paddingStart="?android:attr/listPreferredItemPaddingStart"
     android:paddingLeft="?android:attr/listPreferredItemPaddingLeft"
-    android:paddingRight="?android:attr/listPreferredItemPaddingRight" >
+    android:paddingRight="?android:attr/listPreferredItemPaddingRight"
+    android:paddingEnd="?android:attr/listPreferredItemPaddingEnd" >
 
     <ImageView
+        android:id="@+id/image_primary_action_avatar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
     <LinearLayout
-        android:layout_width="wrap_content"
+        android:id="@+id/layout_primary_action_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:paddingTop="?attr/listPreferredItemPaddingTop"
+        android:paddingBottom="?attr/listPreferredItemPaddingBottom">
 
         <TextView
+            android:id="@+id/textview_primary_text"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:textAppearance="?android:attr/textAppearanceListItem" />
 
         <TextView
+            android:id="@+id/textview_secondary_text"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:textAppearance="?attr/textAppearanceListItemSecondary"/>
@@ -28,6 +36,7 @@
     </LinearLayout>
 
     <ImageView
+        android:id="@+id/image_secondary_action_icon"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 

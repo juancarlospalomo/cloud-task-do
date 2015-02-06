@@ -2,18 +2,27 @@
 <resources>
     <attr name="tileTitleStyle" format="reference" />
     <attr name="tileTitleTextAppearance" format="reference" />
-
     <!--
         attribute style for list components according to the
         guidelines of material design.  This attributes comes from
         material design styles
     -->
     <!-- +++++++++++++++++++++++++++++++++++++++++++++ -->
-
     <!-- List attributes -->
+    <!-- The preferred padding along the top edge of the text content in list items. -->
+    <attr name="listPreferredItemPaddingTop" format="dimension" />
+    <!-- The preferred padding along the bottom edge of the text content in list items. -->
+    <attr name="listPreferredItemPaddingBottom" format="dimension" />
+    <!-- The preferred TextAppearance for the secondary text of list items. -->
     <attr name="textAppearanceListItemSecondary" format="reference" />
     <!-- The most prominent text color. -->
     <attr name="textColorPrimary" format="reference|color" />
     <!-- Default font family. -->
     <attr name="fontFamily" format="string"/>
+    <!-- Color of hint text (displayed when the field is empty). -->
+    <attr name="textColorHint" format="reference|color" />
+    <!-- Color of highlighted text -->
+    <attr name="textColorHighlight" format="reference|color" />
+    <!-- Color of link text (URLs). -->
+    <attr name="textColorLink" format="reference|color"/>
 </resources>

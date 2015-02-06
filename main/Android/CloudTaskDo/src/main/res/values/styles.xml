@@ -12,10 +12,32 @@
     </style>
 
     <!-- Text styles replied from Material Design theme -->
-    <style name="TextAppearanceMaterialBody1">
+
+    <style name="AppProductivityTheme.TextAppearance" parent="android:TextAppearance" />
+
+    <style name="AppProductivityTheme.TextAppearance.Material">
+        <item name="android:textColor">?attr/textColorPrimary</item>
+        <item name="android:textColorHint">?attr/textColorHint</item>
+        <item name="android:textColorHighlight">?attr/textColorHighlight</item>
+        <item name="android:textColorLink">?attr/textColorLink</item>
+        <item name="android:textSize">@dimen/text_size_body_1_material</item>
+        <item name="fontFamily">@string/font_family_body_1_material</item>
+    </style>
+
+    <style name="AppProductivityTheme.TextAppearance.Material.Subhead">
+        <item name="android:textSize">@dimen/text_size_subhead_material</item>
+        <item name="fontFamily">@string/font_family_subhead_material</item>
+        <item name="android:textColor">?attr/textColorPrimary</item>
+        <!-- New attribute to set the padding to text with avatar, text and icon -->
+        <item name="android:paddingLeft">@dimen/list_primary_action_text_avatar_text</item>
+    </style>
+
+    <style name="AppProductivityTheme.TextAppearance.Material.Body1">
         <item name="android:textSize">@dimen/text_size_body_1_material</item>
         <item name="fontFamily">@string/font_family_body_1_material</item>
         <item name="android:textColor">?attr/textColorPrimary</item>
+        <!-- New attribute to set the padding to text with avatar, text and icon -->
+        <item name="android:paddingLeft">@dimen/list_primary_action_text_avatar_text</item>
     </style>
 
 </resources>

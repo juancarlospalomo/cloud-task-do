@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/src/main/res/values-v21/themes.xml -->
+    <eat-comment/>
+    <style name="AppProductivityTheme" parent="android:Theme.Material.Light">
+        <item name="tileTitleStyle">@style/Widget.TileTitle</item>
+        <item name="tileTitleTextAppearance">@style/Widget.TileTitle.tileTitleTextAppearance</item>
+
+        <!-- List attributes -->
+        <item name="textAppearanceListItem">@style/AppProductivityTheme.TextAppearance.Material.Subhead</item>
+        <item name="textAppearanceListItemSecondary">@style/AppProductivityTheme.TextAppearance.Material.Body1</item>
+        <item name="listPreferredItemPaddingTop">@dimen/list_primary_action_text_padding_top</item>
+        <item name="listPreferredItemPaddingBottom">@dimen/list_primary_action_text_padding_bottom</item>
+        <!-- Text styles are already defined for API 21 onwards-->
+
+    </style>
+    <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/src/main/res/values-v21/styles.xml -->
+    <eat-comment/>
+    <style name="AppProductivityTheme.TextAppearance.Material.Body1" parent="android:TextAppearance.Material.Body1">
+        <item name="android:paddingLeft">@dimen/list_primary_action_text_avatar_text</item>
+    </style>
+    <style name="AppProductivityTheme.TextAppearance.Material.Subhead" parent="android:TextAppearance.Material.Subhead">
+        <item name="android:paddingLeft">@dimen/list_primary_action_text_avatar_text</item>
+    </style>
     <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v21/values.xml -->
     <eat-comment/>
     <style name="Base.TextAppearance.AppCompat" parent="android:TextAppearance.Material"/>
@@ -268,13 +290,6 @@
     <style name="Platform.AppCompat.Light.Dialog" parent="android:Theme.Material.Light.Dialog">
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
-    </style>
-    <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/src/main/res/values-v21/themes.xml -->
-    <eat-comment/>
-    <style name="ProductivityTheme" parent="android:Theme.Material.Light">
-        <item name="tileTitleStyle">@style/Widget.TileTitle</item>
-        <item name="tileTitleTextAppearance">@style/Widget.TileTitle.tileTitleTextAppearance</item>
-
     </style>
     <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/src/main/res/values-v21/styles.xml -->
     <eat-comment/>

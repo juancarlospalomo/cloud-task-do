@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="ProductivityTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+    <style name="AppProductivityTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
         <item name="tileTitleStyle">@style/Widget.TileTitle</item>
         <item name="tileTitleTextAppearance">@style/Widget.TileTitle.tileTitleTextAppearance</item>
         <item name="colorPrimary">@color/primary_material_dark</item>
 
         <!-- List attributes -->
-        <item name="textAppearanceListItemSecondary">@style/TextAppearanceMaterialBody1</item>
-
+        <item name="textAppearanceListItem">@style/AppProductivityTheme.TextAppearance.Material.Subhead</item>
+        <item name="textAppearanceListItemSecondary">@style/AppProductivityTheme.TextAppearance.Material.Body1</item>
+        <item name="listPreferredItemPaddingTop">@dimen/list_primary_action_text_padding_top</item>
+        <item name="listPreferredItemPaddingBottom">@dimen/list_primary_action_text_padding_bottom</item>
         <!-- Text styles -->
         <item name="textColorPrimary">@color/primary_text_material_dark</item>
-
+        <item name="textColorHint">@color/hint_foreground_material_dark</item>
+        <item name="textColorHighlight">@color/highlighted_text_material_dark</item>
+        <item name="textColorLink">@color/link_text_material_dark</item>
     </style>
-
 
 </resources>
