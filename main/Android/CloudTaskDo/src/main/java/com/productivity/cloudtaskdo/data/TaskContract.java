@@ -24,6 +24,7 @@ public class TaskContract {
     public static final String PATH_HISTORY = "history";
 
     public enum TypeTask {
+        All(0),
         Expired(1),
         Today(2),
         Future(3),
