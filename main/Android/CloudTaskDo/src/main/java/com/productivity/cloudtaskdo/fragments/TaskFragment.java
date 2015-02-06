@@ -1,4 +1,4 @@
-package com.productivity.cloudtaskdo.fragment;
+package com.productivity.cloudtaskdo.fragments;
 
 import android.app.Fragment;
 import android.app.LoaderManager;
@@ -10,7 +10,6 @@ import android.os.Bundle;
  * Created by JuanCarlos on 05/02/2015.
  */
 public class TaskFragment extends Fragment implements LoaderManager.LoaderCallbacks<Cursor> {
-
 
 
     @Override
