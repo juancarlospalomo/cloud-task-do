@@ -2,5 +2,18 @@
 <resources>
     <attr name="tileTitleStyle" format="reference" />
     <attr name="tileTitleTextAppearance" format="reference" />
-    <!--    <attr name="colorPrimary"/>-->
+
+    <!--
+        attribute style for list components according to the
+        guidelines of material design.  This attributes comes from
+        material design styles
+    -->
+    <!-- +++++++++++++++++++++++++++++++++++++++++++++ -->
+
+    <!-- List attributes -->
+    <attr name="textAppearanceListItemSecondary" format="reference" />
+    <!-- The most prominent text color. -->
+    <attr name="textColorPrimary" format="reference|color" />
+    <!-- Default font family. -->
+    <attr name="fontFamily" format="string"/>
 </resources>

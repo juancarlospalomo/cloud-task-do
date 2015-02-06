@@ -1,17 +1,17 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <style name="AppBaseTheme" parent="android:Theme.Material.Light">
-        <!--
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        -->
-        <item name="android:textSize">17sp</item>
-        <item name="actionBarStyle">@style/ActionBarStyle</item>
+    <style name="Widget.TileTitle" parent="@android:style/Widget.TextView">
+        <item name="android:textAppearance">?attr/tileTitleTextAppearance</item>
     </style>
 
-    <style name="ActionBarStyle" parent="android:Theme.Material.Light.DarkActionBar">
-
+    <style name="Widget.TileTitle.tileTitleTextAppearance">
+        <item name="android:textSize">20sp</item>
     </style>
 
+    <!-- styles replied from the styles default values.
+        Here, they only inherits from the Material Design styles
+        without override anything -->
+    <style name="TextAppearanceMaterialBody1" parent="android:TextAppearance.Material.Body1">
+    </style>
+    
 </resources>

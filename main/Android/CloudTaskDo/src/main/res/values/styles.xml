@@ -11,4 +11,11 @@
         <item name="android:textSize">20sp</item>
     </style>
 
+    <!-- Text styles replied from Material Design theme -->
+    <style name="TextAppearanceMaterialBody1">
+        <item name="android:textSize">@dimen/text_size_body_1_material</item>
+        <item name="fontFamily">@string/font_family_body_1_material</item>
+        <item name="android:textColor">?attr/textColorPrimary</item>
+    </style>
+
 </resources>

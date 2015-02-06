@@ -5,6 +5,13 @@
         <item name="tileTitleStyle">@style/Widget.TileTitle</item>
         <item name="tileTitleTextAppearance">@style/Widget.TileTitle.tileTitleTextAppearance</item>
         <item name="colorPrimary">@color/primary_material_dark</item>
+
+        <!-- List attributes -->
+        <item name="textAppearanceListItemSecondary">@style/TextAppearanceMaterialBody1</item>
+
+        <!-- Text styles -->
+        <item name="textColorPrimary">@color/primary_text_material_dark</item>
+
     </style>
 
 

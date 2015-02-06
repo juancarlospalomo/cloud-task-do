@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ProductivityTheme" parent="android:Theme.Material.Light">
+        <item name="tileTitleStyle">@style/Widget.TileTitle</item>
+        <item name="tileTitleTextAppearance">@style/Widget.TileTitle.tileTitleTextAppearance</item>
+
+        <!-- List attributes -->
+        <item name="textAppearanceListItemSecondary">@style/TextAppearanceMaterialBody1</item>
+
+    </style>
+
+</resources>

@@ -3,10 +3,17 @@
     <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
+    <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/src/main/res/values/attrs.xml -->
+    <eat-comment/>
+    <attr format="string" name="fontFamily"/>
+    <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <eat-comment/>
     <attr format="dimension" name="height"/>
     <attr format="boolean" name="isLightTheme"/>
     <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/src/main/res/values/attrs.xml -->
     <eat-comment/>
+    <attr format="reference" name="textAppearanceListItemSecondary"/>
+    <attr format="reference|color" name="textColorPrimary"/>
     <attr format="reference" name="tileTitleStyle"/>
     <attr format="reference" name="tileTitleTextAppearance"/>
     <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
@@ -84,13 +91,17 @@
     <color name="material_deep_teal_500">#ff009688</color>
     <color name="primary_dark_material_dark">#ff000000</color>
     <color name="primary_dark_material_light">#ff757575</color>
-    <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/src/main/res/values/colors.xml -->
+    <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/src/main/res/values/colors_material.xml -->
     <eat-comment/>
     <color name="primary_material_dark">#ff212121</color>
     <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <color name="primary_material_light">#ffbdbdbd</color>
+    <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/src/main/res/values/colors_material.xml -->
+    <eat-comment/>
     <color name="primary_text_default_material_dark">#ffffffff</color>
+    <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <eat-comment/>
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4Dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
@@ -209,11 +220,10 @@
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
     <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/src/main/res/values/dimens.xml -->
     <eat-comment/>
-    <dimen name="fragment_task_pending_twopanes_land_horizontal">40dp</dimen>
-    <dimen name="fragment_task_pending_twopanes_land_vertical">40dp</dimen>
-    <dimen name="fragment_task_pending_twopanes_port_horizontal">30dp</dimen>
-    <dimen name="fragment_task_pending_twopanes_port_vertical">30dp</dimen>
     <dimen name="grid_spacing">4dp</dimen>
+    <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/src/main/res/values/dimens_material.xml -->
+    <eat-comment/>
+    <dimen name="text_size_body_1_material">14sp</dimen>
     <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <item name="action_bar_activity_content" type="id"/>
@@ -294,6 +304,9 @@
     <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
     <string name="create_calendar_title">Create calendar event</string>
     <string name="decline">Decline</string>
+    <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/src/main/res/values/donottranslate_material.xml -->
+    <eat-comment/>
+    <string name="font_family_body_1_material">sans-serif</string>
     <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/src/main/res/values/strings_activity_sign_in.xml -->
     <eat-comment/>
     <string name="plus_disconnect">Disconnect from Google+</string>
@@ -1222,6 +1235,11 @@
         <item name="tileTitleStyle">@style/Widget.TileTitle</item>
         <item name="tileTitleTextAppearance">@style/Widget.TileTitle.tileTitleTextAppearance</item>
         <item name="colorPrimary">@color/primary_material_dark</item>
+        <item name="textAppearanceListItemSecondary">@style/TextAppearanceMaterialBody1</item>
+
+        <!-- Text styles -->
+        <item name="textColorPrimary">@color/primary_text_material_dark</item>
+
     </style>
     <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
@@ -1310,6 +1328,15 @@
     <style name="TextAppearance.Widget.AppCompat.ExpandedMenu.Item" parent="Base.TextAppearance.Widget.AppCompat.ExpandedMenu.Item"/>
     <style name="TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle"/>
     <style name="TextAppearance.Widget.AppCompat.Toolbar.Title" parent="Base.TextAppearance.Widget.AppCompat.Toolbar.Title"/>
+    <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="TextAppearanceMaterialBody1">
+        <item name="android:textSize">@dimen/text_size_body_1_material</item>
+        <item name="fontFamily">@string/font_family_body_1_material</item>
+        <item name="android:textColor">?attr/textColorPrimary</item>
+    </style>
+    <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <eat-comment/>
     <style name="Theme.AppCompat" parent="Base.Theme.AppCompat"/>
     <style name="Theme.AppCompat.CompactMenu" parent="Base.Theme.AppCompat.CompactMenu"/>
     <style name="Theme.AppCompat.Dialog" parent="Base.Theme.AppCompat.Dialog"/>

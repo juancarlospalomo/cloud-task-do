@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- These are the dimens for material design.
+    the values have been extracted from
+    <Android_SDK>\platforms\android-21\data\res\values\dimens_material.xml -->
+<resources>
+    <dimen name="text_size_body_1_material">14sp</dimen>
+</resources>
