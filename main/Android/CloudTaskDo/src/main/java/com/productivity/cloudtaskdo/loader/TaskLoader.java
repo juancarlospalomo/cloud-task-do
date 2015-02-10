@@ -1,8 +1,10 @@
 package com.productivity.cloudtaskdo.loader;
 
 import android.content.Context;
-import android.content.CursorLoader;
 import android.database.Cursor;
+import android.support.v4.content.CursorLoader;
+import android.util.Log;
+
 import com.productivity.cloudtaskdo.cross.Dates;
 import com.productivity.cloudtaskdo.data.TaskContract;
 import com.productivity.cloudtaskdo.data.TaskContract.TaskEntry;
@@ -11,7 +13,10 @@ import com.productivity.cloudtaskdo.data.TaskContract.TaskEntry;
  * Implements a custom cursor loader for Task URI.
  * Created by JuanCarlos on 05/02/2015.
  */
-public class TaskLoader extends CursorLoader{
+public class TaskLoader extends CursorLoader {
+
+    //For logging purpose
+    private final static String LOG_TAG = TaskLoader.class.getSimpleName();
 
     /**
      * Projection columns for Content Provider
@@ -52,7 +57,7 @@ public class TaskLoader extends CursorLoader{
         } else if(mTypeTask.equals(TaskContract.TypeTask.Today)) {
             selection = TaskEntry.COLUMN_TARGET_DATE_TIME + "=?";
         } else if(mTypeTask.equals(TaskContract.TypeTask.Future)) {
-            selection = TaskEntry.COLUMN_TARGET_DATE_TIME + "=?";
+            selection = TaskEntry.COLUMN_TARGET_DATE_TIME + ">?";
         }
 
         return selection;
@@ -73,6 +78,8 @@ public class TaskLoader extends CursorLoader{
             selectionTasksArgs = new String[] {Dates.getCurrentDateTime()};
         }
 
+        Log.v(LOG_TAG, "loadInBackground - selectionTasks : " + selectionTasks);
+        Log.v(LOG_TAG, "loadInBackground - selectionArgs : " + selectionTasksArgs);
         mCursor = mContext.getContentResolver().query(TaskEntry.CONTENT_URI,
                 TASK_COLUMNS, selectionTasks, selectionTasksArgs, orderBy);
 
@@ -85,6 +92,8 @@ public class TaskLoader extends CursorLoader{
             //It will be notified through the registered observer
             mCursor.setNotificationUri(mContext.getContentResolver(), TaskEntry.CONTENT_URI);
         }
+
+        Log.v(LOG_TAG, "loadInBackGround cursor: " + String.valueOf(mCursor.getCount()));
 
         return mCursor;
     }
@@ -107,6 +116,7 @@ public class TaskLoader extends CursorLoader{
         // We must protect it until the new data has been delivered.
         Cursor oldCursor = mCursor;
         mCursor = cursor;
+        Log.v(LOG_TAG, "deliverResult cursor: " + String.valueOf(mCursor.getCount()));
         if (isStarted()) {
             // If the Loader is in a started state, deliver the results to the
             // client. The superclass method does this for us.

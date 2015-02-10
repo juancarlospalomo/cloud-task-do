@@ -1944,7 +1944,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f090042;
         public static final int action_mode_bar_stub=0x7f090041;
         public static final int action_mode_close_button=0x7f090034;
-        public static final int action_settings=0x7f090062;
+        public static final int action_settings=0x7f090063;
         public static final int activity_chooser_view_content=0x7f090035;
         public static final int adjust_height=0x7f090016;
         public static final int adjust_width=0x7f090017;
@@ -1967,6 +1967,7 @@ containing a value of this type.
         public static final int end=0x7f090014;
         public static final int expand_activities_button=0x7f090036;
         public static final int expanded_menu=0x7f09003c;
+        public static final int fragment_taskactivity=0x7f09005a;
         public static final int grayscale=0x7f090030;
         public static final int gridTaskPeriods=0x7f090054;
         public static final int holo_dark=0x7f090023;
@@ -1977,9 +1978,9 @@ containing a value of this type.
         public static final int icon=0x7f09003a;
         public static final int ifRoom=0x7f09001d;
         public static final int image=0x7f090037;
-        public static final int image_primary_action_avatar=0x7f09005d;
-        public static final int image_secondary_action_icon=0x7f090061;
-        public static final int layout_primary_action_content=0x7f09005e;
+        public static final int image_primary_action_avatar=0x7f09005e;
+        public static final int image_secondary_action_icon=0x7f090062;
+        public static final int layout_primary_action_content=0x7f09005f;
         public static final int listMode=0x7f090009;
         public static final int list_item=0x7f090039;
         public static final int login_progress=0x7f090055;
@@ -2019,12 +2020,12 @@ containing a value of this type.
         public static final int submit_area=0x7f090050;
         public static final int tabMode=0x7f09000b;
         public static final int taskToolBar=0x7f090053;
-        public static final int task_list_view=0x7f09005a;
+        public static final int task_list_view=0x7f09005b;
         public static final int terrain=0x7f09001a;
-        public static final int textViewTileContentId=0x7f09005c;
-        public static final int textview_primary_text=0x7f09005f;
-        public static final int textview_secondary_text=0x7f090060;
-        public static final int tileTileId=0x7f09005b;
+        public static final int textViewTileContentId=0x7f09005d;
+        public static final int textview_primary_text=0x7f090060;
+        public static final int textview_secondary_text=0x7f090061;
+        public static final int tileTileId=0x7f09005c;
         public static final int title=0x7f09003b;
         public static final int up=0x7f090008;
         public static final int useLogo=0x7f090012;
@@ -2061,10 +2062,11 @@ containing a value of this type.
         public static final int abc_simple_dropdown_hint=0x7f030016;
         public static final int activity_home=0x7f030017;
         public static final int activity_sign_in=0x7f030018;
-        public static final int fragment_task=0x7f030019;
-        public static final int grid_item=0x7f03001a;
-        public static final int list_item_task=0x7f03001b;
-        public static final int support_simple_spinner_dropdown_item=0x7f03001c;
+        public static final int activity_task=0x7f030019;
+        public static final int fragment_task=0x7f03001a;
+        public static final int grid_item=0x7f03001b;
+        public static final int list_item_task=0x7f03001c;
+        public static final int support_simple_spinner_dropdown_item=0x7f03001d;
     }
     public static final class menu {
         public static final int menu_home=0x7f0d0000;
@@ -2126,21 +2128,23 @@ containing a value of this type.
         public static final int decline=0x7f0b0032;
         public static final int font_family_body_1_material=0x7f0b0033;
         public static final int font_family_subhead_material=0x7f0b0034;
-        public static final int plus_disconnect=0x7f0b0035;
-        public static final int plus_sign_out=0x7f0b0036;
-        public static final int store_picture_message=0x7f0b0037;
-        public static final int store_picture_title=0x7f0b0038;
-        public static final int textTileContentAny=0x7f0b0039;
-        public static final int textTileContentExpired=0x7f0b003a;
-        public static final int textTileContentFuture=0x7f0b003b;
-        public static final int textTileContentToday=0x7f0b003c;
-        public static final int textTileTitleAny=0x7f0b003d;
-        public static final int textTileTitleExpired=0x7f0b003e;
-        public static final int textTileTitleFuture=0x7f0b003f;
-        public static final int textTileTitleToday=0x7f0b0040;
-        public static final int title_activity_home=0x7f0b0041;
-        public static final int title_activity_sign_in=0x7f0b0042;
-        public static final int wallet_buy_button_place_holder=0x7f0b0043;
+        public static final int hello_world=0x7f0b0035;
+        public static final int plus_disconnect=0x7f0b0036;
+        public static final int plus_sign_out=0x7f0b0037;
+        public static final int store_picture_message=0x7f0b0038;
+        public static final int store_picture_title=0x7f0b0039;
+        public static final int textTileContentAny=0x7f0b003a;
+        public static final int textTileContentExpired=0x7f0b003b;
+        public static final int textTileContentFuture=0x7f0b003c;
+        public static final int textTileContentToday=0x7f0b003d;
+        public static final int textTileTitleAny=0x7f0b003e;
+        public static final int textTileTitleExpired=0x7f0b003f;
+        public static final int textTileTitleFuture=0x7f0b0040;
+        public static final int textTileTitleToday=0x7f0b0041;
+        public static final int title_activity_home=0x7f0b0042;
+        public static final int title_activity_sign_in=0x7f0b0043;
+        public static final int title_activity_task=0x7f0b0044;
+        public static final int wallet_buy_button_place_holder=0x7f0b0045;
     }
     public static final class style {
         public static final int AppProductivityTheme=0x7f0c0000;

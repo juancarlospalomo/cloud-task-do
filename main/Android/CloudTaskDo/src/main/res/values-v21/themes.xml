@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="AppProductivityTheme" parent="android:Theme.Material.Light">
+    <style name="AppProductivityTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
         <item name="tileTitleStyle">@style/Widget.TileTitle</item>
         <item name="tileTitleTextAppearance">@style/Widget.TileTitle.tileTitleTextAppearance</item>
         <!-- List attributes -->

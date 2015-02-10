@@ -344,6 +344,9 @@
     <eat-comment/>
     <string name="font_family_body_1_material">sans-serif</string>
     <string name="font_family_subhead_material">sans-serif</string>
+    <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="hello_world">Hello world!</string>
     <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/src/main/res/values/strings_activity_sign_in.xml -->
     <eat-comment/>
     <string name="plus_disconnect">Disconnect from Google+</string>
@@ -366,6 +369,9 @@
     <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/src/main/res/values/strings_activity_sign_in.xml -->
     <eat-comment/>
     <string name="title_activity_sign_in">Sign in</string>
+    <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="title_activity_task">TaskActivity</string>
     <!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/wallet_strings.xml -->
     <eat-comment/>
     <string name="wallet_buy_button_place_holder" translation_description="Text on a button that allows a user to make a payment with Google Wallet [CHAR LIMIT=30]">Buy with Google</string>

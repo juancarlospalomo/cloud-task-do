@@ -12,5 +12,7 @@
     <string name="textTileTitleAny">Any Date</string>
     <string name="textTileContentAny">Task Number</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_task">TaskActivity</string>
+    <string name="hello_world">Hello world!</string>
 
 </resources>

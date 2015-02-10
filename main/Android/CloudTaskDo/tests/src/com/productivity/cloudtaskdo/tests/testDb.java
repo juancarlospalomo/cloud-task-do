@@ -6,10 +6,14 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.test.AndroidTestCase;
 
+import com.productivity.cloudtaskdo.cross.Dates;
 import com.productivity.cloudtaskdo.data.TaskContract.NotificationEntry;
 import com.productivity.cloudtaskdo.data.TaskContract.TaskEntry;
 import com.productivity.cloudtaskdo.data.TaskDbHelper;
 
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
@@ -69,9 +73,28 @@ public class testDb extends AndroidTestCase {
         db.close();
     }
 
+    /**
+     * Create a Task Collection
+     *
+     * @return created task list
+     */
+    static List<ContentValues> createTaskCollection() {
+        List<ContentValues> valuesCollection = new ArrayList<ContentValues>();
+        Date date = Dates.getDate(Dates.getCurrentDateTime());
+        String dateValue = Dates.castToDatabaseFormat(date);
+        for (int i = 0; i < 10; i++) {
+            ContentValues values = new ContentValues();
+            values.put(TaskEntry.COLUMN_TASK_NAME, "Task" + String.valueOf(i));
+            values.put(TaskEntry.COLUMN_TARGET_DATE_TIME, dateValue);
+            valuesCollection.add(values);
+            date = Dates.addDays(date, i + 1);
+            dateValue = Dates.castToDatabaseFormat(date);
+        }
+        return valuesCollection;
+    }
+
     static ContentValues createTaskBasicValues() {
         ContentValues values = new ContentValues();
-        values.put(TaskEntry._ID, 1);
         values.put(TaskEntry.COLUMN_TASK_NAME, "task 1");
         values.put(TaskEntry.COLUMN_TARGET_DATE_TIME, "2015-02-03 11:15");
         return values;
@@ -79,7 +102,6 @@ public class testDb extends AndroidTestCase {
 
     static ContentValues createTaskCompleteValues() {
         ContentValues values = new ContentValues();
-        values.put(TaskEntry._ID, 2);
         values.put(TaskEntry.COLUMN_TASK_NAME, "task 2");
         values.put(TaskEntry.COLUMN_TARGET_DATE_TIME, "2015-02-04 12:15");
         values.put(TaskEntry.COLUMN_OPERATION, 1);
@@ -118,6 +140,33 @@ public class testDb extends AndroidTestCase {
             assertEquals(expectedValue, valueCursor.getString(idx));
         }
         valueCursor.close();
+    }
+
+    /**
+     * check all rows from a cursor against an expected list of rows
+     * @param valueCursor cursor with all rows
+     * @param expectedValues expected rows to check
+     */
+    static void validateFullCursor(Cursor valueCursor, List<ContentValues> expectedValues) {
+        assertTrue(valueCursor.moveToFirst());
+
+        int index = 0;
+        ContentValues contentValues = expectedValues.get(index);
+        while (!valueCursor.isAfterLast()) {
+            Set<Map.Entry<String, Object>> valueSet = contentValues.valueSet();
+            for(Map.Entry<String, Object> entry : valueSet) {
+                String columnName = entry.getKey();
+                int idx = valueCursor.getColumnIndex(columnName);
+                assertFalse(idx == -1);
+                String expectedValue = entry.getValue().toString();
+                assertEquals(expectedValue, entry.getValue().toString());
+            }
+            valueCursor.moveToNext();
+            index++;
+            if (index<expectedValues.size()) {
+                contentValues = expectedValues.get(index);
+            }
+        }
     }
 
 }

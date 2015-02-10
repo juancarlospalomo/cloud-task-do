@@ -1,5 +1,6 @@
 package com.productivity.cloudtaskdo;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.Toolbar;
@@ -11,6 +12,7 @@ import android.widget.BaseAdapter;
 import android.widget.GridView;
 import android.widget.TextView;
 
+import com.productivity.cloudtaskdo.data.TaskContract;
 import com.productivity.cloudtaskdo.datacontainers.GridBlockItem;
 import com.productivity.cloudtaskdo.views.TileTitle;
 
@@ -89,6 +91,14 @@ public class HomeActivity extends ActionBarActivity {
             final GridBlockItem item = getItem(position);
 
             viewHolder.tileTitleView.setText(getResources().getString(item.getTileTitle()));
+            viewHolder.tileTitleView.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    Intent intent = new Intent(HomeActivity.this, TaskActivity.class);
+                    intent.putExtra(TaskActivity.EXTRA_TYPE_TASK, TaskContract.TypeTask.Future.getValue());
+                    startActivity(intent);
+                }
+            });
             viewHolder.tileContentView.setText(getResources().getString(item.getTileContent()));
 
             return convertView;
