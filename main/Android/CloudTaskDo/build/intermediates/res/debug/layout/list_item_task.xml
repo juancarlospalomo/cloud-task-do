@@ -10,6 +10,7 @@
 
     <ImageView
         android:id="@+id/image_primary_action_avatar"
+        android:layout_gravity="center_vertical"
         android:layout_width="?attr/listPreferredListItemAvatarWidth"
         android:layout_height="?attr/listPreferredListItemAvatarHeight" />
 
@@ -19,7 +20,7 @@
         android:layout_weight="1"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:layout_gravity="center|top"
+        android:gravity="top"
         android:paddingTop="?attr/listPreferredItemPaddingTop"
         android:paddingBottom="?attr/listPreferredItemPaddingBottom">
 
@@ -38,6 +39,7 @@
 
     <ImageView
         android:id="@+id/image_secondary_action_icon"
+        android:layout_gravity="center_vertical"
         android:layout_width="?attr/touchableAssetLayoutWidth"
         android:layout_height="?attr/touchableAssetLayoutHeight" />
 </LinearLayout><!-- From: file:/D:/Workspace/CloudTaskDo/main/Android/CloudTaskDo/src/main/res/layout/list_item_task.xml -->
